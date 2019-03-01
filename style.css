@@ -22,6 +22,7 @@ div.list {
 
 div.list2 {
   
+    font-size: 10px;
     margin-left: auto;
     margin-right: auto;
     text-align: left;
@@ -65,4 +66,3 @@ h1 {
   margin-bottom: -10px;
     
 }
-
