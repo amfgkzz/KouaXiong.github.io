@@ -18,7 +18,7 @@ div.list {
     margin-right: auto;
     text-align: left;
     border: 1px solid green;
-    background-color: bisque;
+    
 }
 
 div.list2 {
@@ -28,7 +28,7 @@ div.list2 {
     margin-right: auto;
     text-align: left;
     border: 1px solid green;
-    background-color: bisque;
+    
       
 }
 
@@ -40,5 +40,4 @@ p {
   color: black;
   
 }
-
 
