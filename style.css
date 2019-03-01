@@ -7,13 +7,17 @@
 
 div.list {
     font size: 30px;
-    text-align: left;
+    float: left;
+    position: relative;
+    left: -50%;
   
 }
 
 div.list2 {
     font size: 20px;
-    text-align: left;
+    float: left;
+    position: relative;
+    left: -50%;
 }
 
 body {
