@@ -7,6 +7,7 @@
 	padding: 10px 150px 10px 150px;
 
 	border-radius: 15px;
+    border: 1px solid green;
       
 }
 
@@ -16,7 +17,7 @@ div.list {
     margin-left: auto;
     margin-right: auto;
     text-align: left;
-      
+    border: 1px solid green;
 }
 
 div.list2 {
@@ -25,6 +26,7 @@ div.list2 {
     margin-left: auto;
     margin-right: auto;
     text-align: left;
+    border: 1px solid green;
       
 }
 
