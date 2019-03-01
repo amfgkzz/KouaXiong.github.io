@@ -1,8 +1,8 @@
 #main {
   
 	margin-top: 10px;
-	margin-left: 500px;
-	margin-right: 500px;
+	margin-left: 300px;
+	margin-right: 300px;
 
 	padding: 5px 200px 5px 200px;
 
@@ -17,7 +17,7 @@ div.list {
     margin-right: auto;
     text-align: left;
     border-bottom: 2px solid green;
-    
+    margin-bottom: -10px;
 }
 
 div.list2 {
@@ -25,6 +25,7 @@ div.list2 {
     margin-left: auto;
     margin-right: auto;
     text-align: left;
+    margin-bottom: -10px;
     
       
 }
@@ -37,3 +38,4 @@ p {
   color: black;
   
 }
+
