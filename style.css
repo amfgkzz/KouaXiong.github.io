@@ -1,5 +1,12 @@
 #main {
-    text-align: center;
+    margin-top: 15px;
+    margin-left: 200px;
+    margin-right: 200px;
+  
+    padding: 10 px 150px 10px 150px
+    border-radius: 15px;
+  
+    text-align: left;
 }
 
 div.list {
