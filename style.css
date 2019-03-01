@@ -1,6 +1,14 @@
+#main {
+    text-align: center;
+}
+
+div.list {
+    text-align: left;
+  
+}
+
 body {
     background-color: bisque;
-    text-align: center;
   
 }
 p {
